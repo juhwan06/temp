@@ -42,7 +42,7 @@ while(a < b):
 if(c>=3):
     print("not prime")
 else:
-    print("prime")
+    print("prime")                      #소수구하기
 '''
 '''
 a= int(input())
