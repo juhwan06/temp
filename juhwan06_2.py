@@ -21,3 +21,4 @@ for i in range(len(a)):
         c = a[i]
 print(a)
 print(c)
+ 
